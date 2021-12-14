@@ -1,5 +1,5 @@
 # RandomQuotes
-Just another Quotes app with beautiful UI which shows random memes from the internet.
+Just another Quotes app with beautiful UI which shows random quotes from the internet.
 
 ## Screenshots
 
