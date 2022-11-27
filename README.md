@@ -3,7 +3,6 @@ Just another Quotes app with beautiful UI which shows random quotes from the int
 
 ## Screenshots
 
-
 <div class="column">
   <img src="https://github.com/hamzaazizofficial/RandomQuotes/blob/master/app/src/main/res/drawable/1.jpg" width="250"  />
 
