@@ -8,7 +8,6 @@ Just another Quotes app with beautiful UI which shows random quotes from the int
 
   
   
-  
   <img src="https://github.com/hamzaazizofficial/RandomQuotes/blob/master/app/src/main/res/drawable/2.jpg" width="250"  />
   
   <img src="https://github.com/hamzaazizofficial/RandomQuotes/blob/master/app/src/main/res/drawable/3.jpg" width="250" />
