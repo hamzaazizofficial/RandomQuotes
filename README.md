@@ -19,3 +19,4 @@ Just another Quotes app with beautiful UI which shows random quotes from the int
 ## API
 - [Random Quotes Api](https://api.quotable.io/random)
 - [Api Documentation](https://github.com/lukePeavey/quotable)
+
